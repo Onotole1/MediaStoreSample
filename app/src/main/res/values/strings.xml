@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">Media store</string>
+    <string name="file_name_hint">Введите имя файла</string>
+    <string name="file_not_found">Файл не найден</string>
+    <string name="settings_button">Настройки</string>
+    <string name="permission_denied_description">Нужно разрешение, чтобы найти картинку</string>
+    <string name="permission_never_ask_again_description">Включите разрешение в настройках</string>
+</resources>
